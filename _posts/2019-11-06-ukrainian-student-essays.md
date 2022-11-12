@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Story of the Ukrainian Student and his Essays"
-date:   2019-11-06 01:11:00 +0100
+date:   2019-11-06
 categories: english, essays
 ---
 

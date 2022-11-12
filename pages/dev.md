@@ -29,9 +29,8 @@ permalink: /dev/
 - [leximoron]() - programming languages database
 - [oleks.studio](https://oleks.studio) - design studio
 
----
+
 ```racket
 (define Y (λ (b) ((λ (f) (b (λ (x) ((f f) x))))
                   (λ (f) (b (λ (x) ((f f) x)))))))
 ```
----

@@ -7,6 +7,9 @@ permalink: /misc/
 ## Books
 - [How to Design Programs](https://htdp.org/)
 
+## Blogs
+- [MIT rei](https://www.mit.edu/~rei/)
+
 ## People
 - [Coding Horror by Jeff Atwood](https://blog.codinghorror.com/)
 - [Matthias Felleisen](https://felleisen.org/matthias/) #pl
@@ -20,6 +23,10 @@ permalink: /misc/
 
 ## Tools
 - [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
+- [asciinema](https://asciinema.org/)
+- [carbon](https://carbon.now.sh/)
 
 ## Watch
 - [How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)

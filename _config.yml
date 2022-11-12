@@ -12,4 +12,4 @@ header_pages:
 style: dark
 listen_for_clients_preferred_style: true
 
-footer: '<a href="https://github.com/orreksu">github</a> <a href="https://mas.to/@orreksu">mastodon</a>'
+footer: '<a href="https://github.com/orreksu">github</a> <a href="https://mas.to/@orreksu">mastodon</a>  <a href="https://glitch.com/@orreksu">glitch</a>'

@@ -23,3 +23,10 @@ permalink: /misc/
 
 ## Watch
 - [How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)
+
+## Federated
+- [Mastodon](https://joinmastodon.org/) - federated social network
+- [Dine](https://dino.im/) - chat
+- [Odysee](https://odysee.com/) - federated video publishing
+- [Beaker Browser](https://beakerbrowser.com/) - federated website publishing and access
+- [Hypercore Protocol](https://hypercore-protocol.org/)

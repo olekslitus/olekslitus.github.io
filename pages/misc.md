@@ -17,3 +17,6 @@ permalink: /misc/
 
 ## Tools
 - [Vercel](https://vercel.com/)
+
+## Watch
+- [How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)

@@ -5,7 +5,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 header_pages:
   - index.md
-  - about.md
+  - pages/about.md
   - pages/dev.md
 
 style: dark

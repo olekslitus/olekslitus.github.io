@@ -20,6 +20,7 @@ permalink: /misc/
 
 ## Projects
 - [CodeTriage](https://www.codetriage.com/)
+- [uses](https://uses.tech/)
 
 ## Tools
 - [Vercel](https://vercel.com/)

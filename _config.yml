@@ -8,6 +8,7 @@ header_pages:
   - pages/about.md
   - pages/dev.md
   - pages/misc.md
+  - pages/ukr.md
 
 style: dark
 listen_for_clients_preferred_style: true

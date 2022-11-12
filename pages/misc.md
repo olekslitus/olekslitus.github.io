@@ -4,6 +4,9 @@ title: /misc
 permalink: /misc/
 ---
 
+## Books
+- [How to Design Programs](https://htdp.org/)
+
 ## People
 - [Coding Horror by Jeff Atwood](https://blog.codinghorror.com/)
 - [Matthias Felleisen](https://felleisen.org/matthias/) #pl

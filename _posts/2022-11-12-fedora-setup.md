@@ -13,4 +13,8 @@ sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub
 # Pop OS Shell
 # details: https://github.com/pop-os/shell
 sudo dnf install gnome-shell-extension-pop-shell xprop
+
+# https://negativo17.org/xbox-series-xs-wireless-controller-in-fedora-steam/
+
+# https://negativo17.org/steam/
 ```

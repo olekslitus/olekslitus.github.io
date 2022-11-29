@@ -20,4 +20,7 @@ sudo dnf install gnome-shell-extension-pop-shell xprop
 
 # Firefox
 # Disable microphone icon on calls: https://superuser.com/a/1667707
+
+# Logitech Mouse
+# install logiops: https://github.com/PixlOne/logiops
 ```

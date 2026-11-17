@@ -1,4 +1,4 @@
-title: oreksu
+title: olekslitus
 description: Personal page of Oleks
 
 remote_theme: b2a3e8/jekyll-theme-console
@@ -13,4 +13,4 @@ header_pages:
 style: dark
 listen_for_clients_preferred_style: true
 
-footer: '<a href="https://github.com/orreksu">github</a> <a href="https://mas.to/@orreksu">mastodon</a>  <a href="https://glitch.com/@orreksu">glitch</a>'
+footer: '<a href="https://github.com/olekslitus">github</a> <a href="https://mas.to/@orreksu">mastodon</a>'

@@ -1,4 +1,4 @@
-# oreksu.github.io
+# olekslitus.github.io
 
 ## Web
 1. Install nvm

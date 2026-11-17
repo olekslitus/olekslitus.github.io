@@ -6,17 +6,16 @@ permalink: /dev/
 
 # /dev
 
+### apps
+- [lines](https://olekslitus.com/lines/) - calm, beautiful notes that stay yours
+
 ### teaching
 - Helped design and TAed DS3500 with Prof. Rachlin
 
 ### written in C
-- [nush](https://github.com/oreksu/nush) - shell with support for pipes and variables
-- [xmalloc](https://github.com/oreksu/xmalloc) - super-fast thread-safe memmory allocator
-- [olfs](https://github.com/oreksu/olfs) - performent unlimited nesting file system based on [Linux FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
-
-### cli apps
-- [dih](https://github.com/oreksu/dih) - do i have ...?
-- [lit](https://github.com/oreksu/lit) - lighter git
+- [nush](https://github.com/olekslitus/nush) - shell with support for pipes and variables
+- [xmalloc](https://github.com/olekslitus/xmalloc) - super-fast thread-safe memmory allocator
+- [olfs](https://github.com/olekslitus/olfs) - performent unlimited nesting file system based on [Linux FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
 
 ### i help with ...
 - [tui-rs](https://github.com/fdehau/tui-rs) - terminal user interfaces and dashboards using Rust
@@ -26,8 +25,8 @@ permalink: /dev/
 - [trie](https://medium.com/shyft-network-media/understanding-trie-databases-in-ethereum-9f03d2c3325d) in eth
 
 ### ideas
-- [leximoron]() - programming languages database
-- [oleks.studio](https://oleks.studio) - design studio
+- leximoron - programming languages database
+- oleks.studio - design studio
 
 
 ```racket
